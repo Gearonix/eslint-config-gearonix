@@ -55,7 +55,10 @@ module.exports = {
                 ]
             }
         ],
-        "simple-import-sort/exports": "error"
+        "simple-import-sort/exports": "error",
+        "react/react-in-jsx-scope": "off",
+        "quotes": [2, "single", { "avoidEscape": true }],
+        "@typescript-eslint/no-namespace": "off"
     },
     plugins:  ["@typescript-eslint","react","react-hooks","simple-import-sort"],
     parser: "@typescript-eslint/parser"
