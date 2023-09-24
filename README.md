@@ -1,3 +1,7 @@
+> :warning: **THIS PACKAGE IS DEPRECATED**
+
+---
+
 # ESLint (and Prettier) config
 
 [![npm version](https://badge.fury.io/js/eslint-config-gearonix.svg)](https://badge.fury.io/js/eslint-config-gearonix)
